@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to Wenlong Ding's Pages
+## 丁文龙
+### Personal Information
+#### Name:
+丁文龙/Wenlong Ding
+#### Gender:
+Male
+#### Birth day:
+1996.09.23
+#### Email:
+643806708@qq.com
+#### Research:
+Deep learning,BCI (SSVEP-EEG)
+### Published paper:
+1. "Filter Bank Convolutional Neural Network for Short Time-Window Steady-State Visual Evoked Potential Classification" (Q1, DOI: 10.1109/TNSRE.2021.3132162). [Code](https://github.com/DingWenl/FB-tCNN)
 
-You can use the [editor on GitHub](https://github.com/DingWenl/Dingwenl.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+2. Ding, Wenlong & Wang, Chengyin & Fang, Bin & Sun, Fuchun & Shan, Jianhua. (2021). A Survey of Multimodal Human-Machine Interface. 10.1007/978-981-16-2336-3_35. 2020年12月， EI国际会议：ICCSIP2020。
 
-- Bulleted
-- List
+3. Wang, Chengyin & Ding, Wenlong & Shan, Jianhua & Fang, Bin. (2021). A Review of Research on Brain-Computer Interface Based on Imagined Speech. 10.1007/978-981-16-2336-3_34. 2020年12月， EI国际会议：ICCSIP2020。
 
-1. Numbered
-2. List
+4. Zhou, Quan & Shan, Jianhua & Ding, Wenlong & Wang, Chengyin & Yuan, Shi & Sun, Fuchun & Li, Haiyuan & Fang, Bin. (2021). Cough Recognition Based on Mel-Spectrogram and Convolutional Neural Network. Frontiers in Robotics and AI. 8. 10.3389/frobt.2021.580080. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DingWenl/Dingwenl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+5. Zhou, Quan & Shan, Jianhua & Fang, Bin & Shixin, Zhang & Sun, Fuchun & Ding, Wenlong & Wang, Chengyin & Zhang, Qin. (2021). Personal‐specific gait recognition based on latent orthogonal feature space. Cognitive Computation and Systems. 3. 10.1049/ccs2.12007. 

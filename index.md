@@ -1,6 +1,6 @@
 # Welcome to Wenlong Ding's Pages
-## 丁文龙
-### Personal Information
+### 丁文龙
+## Personal Information
 #### Name:
 丁文龙/Wenlong Ding
 #### Gender:
@@ -10,8 +10,8 @@ Male
 #### Email:
 643806708@qq.com
 #### Research:
-Deep learning,BCI (SSVEP-EEG)
-### Published paper:
+Deep learning, BCI (SSVEP-EEG)
+## Published paper:
 1. "Filter Bank Convolutional Neural Network for Short Time-Window Steady-State Visual Evoked Potential Classification" (Q1, DOI: 10.1109/TNSRE.2021.3132162). [Code](https://github.com/DingWenl/FB-tCNN)
 
 
